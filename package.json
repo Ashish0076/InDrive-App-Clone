@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-navigation/native-stack": "^6.9.26",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.30.1"
+  }
+}

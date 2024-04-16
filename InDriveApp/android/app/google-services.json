@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087131283614",
+    "project_id": "indrive-app-clone",
+    "storage_bucket": "indrive-app-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087131283614:android:6b348c69794dd59761cb8f",
+        "android_client_info": {
+          "package_name": "com.indriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087131283614-c994mehf36sc6nj59j5fcfunid3nd2p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJjAkneXkIRIpsB5-SRSHzA3r7kdsPes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087131283614-c994mehf36sc6nj59j5fcfunid3nd2p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
